@@ -1,6 +1,6 @@
 {
   "name": "ml_is-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is the string a specific value?",
   "main": "index.js",
   "scripts": {
