@@ -1,0 +1,23 @@
+{
+  "name": "luic/@is-string",
+  "version": "1.0.0",
+  "description": "Is the string a specific value?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcidBurnHen/first-npm-package.git"
+  },
+  "keywords": [
+    "string",
+    "value"
+  ],
+  "author": "Marin Luic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcidBurnHen/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/AcidBurnHen/first-npm-package#readme"
+}
