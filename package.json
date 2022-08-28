@@ -1,5 +1,5 @@
 {
-  "name": "luic/@is-string",
+  "name": "ml_is-string",
   "version": "1.0.0",
   "description": "Is the string a specific value?",
   "main": "index.js",
